@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab6PowersTable\Lab6PowersTable\bin\Debug\Lab6PowersTable.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab6PowersTable\Lab6PowersTable\bin\Debug\Lab6PowersTable.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab6PowersTable\Lab6PowersTable\bin\Debug\Lab6PowersTable.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab6PowersTable\Lab6PowersTable\obj\Debug\Lab6PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab6PowersTable\Lab6PowersTable\obj\Debug\Lab6PowersTable.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab6PowersTable\Lab6PowersTable\obj\Debug\Lab6PowersTable.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab6PowersTable\Lab6PowersTable\obj\Debug\Lab6PowersTable.csprojAssemblyReference.cache
